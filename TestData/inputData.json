@@ -1,0 +1,12 @@
+{
+    "createUser": {
+        "name": "morpheus",
+        "job": "leader"
+    },
+
+    "updateUser": {
+        "name": "morpheusPUT",
+        "job": "zion resident"
+    }
+
+}
